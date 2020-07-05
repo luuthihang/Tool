@@ -1,0 +1,10 @@
+F:\Visual studio project\C# co ban\Tool\ToolAnhHieu\Tool2\bin\Debug\Tool2.exe.config
+F:\Visual studio project\C# co ban\Tool\ToolAnhHieu\Tool2\obj\Debug\Interop.LCC11.dll
+F:\Visual studio project\C# co ban\Tool\ToolAnhHieu\Tool2\obj\Debug\Tool2.csproj.ResolveComReference.cache
+F:\Visual studio project\C# co ban\Tool\ToolAnhHieu\Tool2\bin\Debug\Tool2.exe
+F:\Visual studio project\C# co ban\Tool\ToolAnhHieu\Tool2\bin\Debug\Tool2.pdb
+F:\Visual studio project\C# co ban\Tool\ToolAnhHieu\Tool2\obj\Debug\Tool2.Form1.resources
+F:\Visual studio project\C# co ban\Tool\ToolAnhHieu\Tool2\obj\Debug\Tool2.Properties.Resources.resources
+F:\Visual studio project\C# co ban\Tool\ToolAnhHieu\Tool2\obj\Debug\Tool2.csproj.GenerateResource.Cache
+F:\Visual studio project\C# co ban\Tool\ToolAnhHieu\Tool2\obj\Debug\Tool2.exe
+F:\Visual studio project\C# co ban\Tool\ToolAnhHieu\Tool2\obj\Debug\Tool2.pdb
